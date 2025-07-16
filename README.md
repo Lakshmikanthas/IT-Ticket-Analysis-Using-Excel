@@ -29,5 +29,6 @@ This project presents an analysis of IT support tickets using Microsoft Excel. I
 
 To help IT support teams better understand their workload, efficiency, and opportunities for automation or improvement.
 Screenshot of Excel Dashboard
-<img width="867" height="421" alt="image" src="https://github.com/user-attachments/assets/ad90960a-cffd-4eb8-aa31-3d2bfb8e0dd4" />
+<img width="869" height="419" alt="image" src="https://github.com/user-attachments/assets/a1090f84-5ed3-48fd-9912-7eb2c89ca3d3" />
+
 
